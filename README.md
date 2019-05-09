@@ -20,7 +20,18 @@ WIREFRAMES: pictures of drawings of websites
 
 ROLES: Zozo + Cliff - Product Owner Devon - Git Master Sharlene -  Vibes Master - Cliff
 
-FRONT END: LIST OF COMPONENTS:
+FRONT END: 
+ 
+
+ 
+
+
+
+
+
+
+
+LIST OF COMPONENTS:
 
 LIST OF REDUCERS:
 
