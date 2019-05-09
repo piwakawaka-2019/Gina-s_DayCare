@@ -22,11 +22,7 @@ WIREFRAMES:
 pictures of drawings of websites
 
 
-ROLES:
-Zozo + Cliff - Product Owner
-Devon - Scrum Master
-Sharlene - Git Master
-Vibes Master - Cliff
+
 
 
 FRONT END:
