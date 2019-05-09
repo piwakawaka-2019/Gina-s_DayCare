@@ -18,7 +18,7 @@ User can see their business waitlist, edit the order cue, and delete applicants
 User can update their business waitlist and have this change affect parents personal waitlists
 WIREFRAMES: pictures of drawings of websites
 
-ROLES: Zozo + Cliff - Product Owner Devon - Scrum Master Sharlene - Git Master Vibes Master - Cliff
+ROLES: Zozo + Cliff - Product Owner Devon - Git Master Sharlene -  Vibes Master - Cliff
 
 FRONT END: LIST OF COMPONENTS:
 
