@@ -20,6 +20,7 @@ WIREFRAMES: pictures of drawings of websites
 
 ROLES: Zozo + Cliff - Product Owner Devon - Git Master Sharlene -  Vibes Master - Cliff
 
+
 FRONT END: LIST OF COMPONENTS:
 
 LIST OF REDUCERS:
@@ -27,5 +28,26 @@ LIST OF REDUCERS:
 LIST OF ACTIONS:
 
 BACK END: LIST OF DATA TABLES:
+
+
+FRONT END: 
+ 
+
+ 
+
+
+
+
+
+
+
+LIST OF COMPONENTS:
+
+LIST OF REDUCERS:
+
+LIST OF ACTIONS:
+
+BACK END: LIST OF DATA TABLES:
+
 
 LIST OF SERVER SIDE FUNCTIONS: API: DB: ROUTES:
