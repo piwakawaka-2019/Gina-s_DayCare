@@ -5,7 +5,9 @@ import React from 'React'
 class ChildProfile extends React.Component{
   constructor(props){
     super(props)
-    this.state={}
+    this.state={value:''};
+
+    this.handleChange = this 
   }
   render(){
     return(
