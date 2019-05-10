@@ -1,10 +1,11 @@
 
 exports.up = function(knex, Promise) {
   return knex.schema.createTable('waitlist', table => {
-      table.increments('child_id')
-      table.increments('ecc_id')
-      table.increments('rank_ecc')
-      table.increments('rank_parent')
+      table.increments('id').primary
+      table.integer('child_id')
+      table.integer('ecc_id')
+      table.integer('rank_ecc')
+      table.integer('rank_parent')
   })
 };
 
