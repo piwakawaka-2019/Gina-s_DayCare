@@ -11,6 +11,8 @@ exports.up = function(knex, Promise) {
         table.string('description')
         table.string('age')
         table.string('photo')
+        table.string('username').unique
+        table.string('hash_password')
     })
 };
 

@@ -4,8 +4,10 @@ exports.up = function(knex, Promise) {
       table.increments('id').primary
       table.integer('child_id')
       table.integer('ecc_id')
+      table.string('status')
       table.integer('rank_ecc')
       table.integer('rank_parent')
+      
   })
 };
 
