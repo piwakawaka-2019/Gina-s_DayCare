@@ -1,13 +1,11 @@
 
 exports.seed = function(knex, Promise) {
   // Deletes ALL existing entries
-  return knex('table_name').del()
+  return knex('waitlist').del()
     .then(function () {
       // Inserts seed entries
-      return knex('table_name').insert([
-        {id: 1, colName: 'rowValue1'},
-        {id: 2, colName: 'rowValue2'},
-        {id: 3, colName: 'rowValue3'}
+      return knex('waitlist').insert([
+        {id: 1, child_id: 1, ecc_id: 1, rank_ecc: 1, rank_parent: 1}
       ]);
     });
 };
